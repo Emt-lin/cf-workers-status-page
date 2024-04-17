@@ -33,7 +33,7 @@ monitors:
     linkable: true # allows the title to be a link, default=true
 
   - id: blog-pslanys-com
-    name: The Cloudflare Blog
+    name: www.pslanys.com Blog
     url: 'https://www.pslanys.com/'
     method: GET
     expectStatus: 200
